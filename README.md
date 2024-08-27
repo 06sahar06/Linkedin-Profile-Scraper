@@ -39,6 +39,13 @@ First, you will need to install streamlit by running the following command in th
 ```bash
 $ pip install streamlit
 ```
+Create a virtual environment:
+
+```bash
+$ python -m streamlit_env myenv
+$ streamlit_env\Scripts\activate
+```
+
 you can then run the streamlit app directly:
 ```bash
 $ streamlit run app.py
