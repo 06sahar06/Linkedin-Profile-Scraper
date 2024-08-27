@@ -23,7 +23,7 @@ encoded_url = fully_encode_url(url)
 conn = http.client.HTTPSConnection("linkedin-profile-data.p.rapidapi.com")
 
 headers = {
-    'x-rapidapi-key': "c059fa686amsh0b754c0d1df531bp1dfe28jsn38cf71372399",
+    'x-rapidapi-key': "replace with your own api key",
     'x-rapidapi-host': "linkedin-profile-data.p.rapidapi.com"
 }
 
