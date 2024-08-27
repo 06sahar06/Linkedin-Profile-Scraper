@@ -19,6 +19,14 @@ $ cd Linkeidn-Profile-Scraper
 ```
 
 ## Usage
+
+### Before running the project, you need to subscribe to the following Rapid API link: 
+
+https://rapidapi.com/rockdevs-rockdevs-default/api/linkedin-profile-data-api/playground/apiendpoint_9ccd2e2e-6cb7-4741-a269-df62154585f5
+
+### You should then replace in the python script the X-RapidAPI-Key with the one you're provided after the subscription
+
+
 ### To run the project, use the following command:
 ```bash
 $ python app.py
